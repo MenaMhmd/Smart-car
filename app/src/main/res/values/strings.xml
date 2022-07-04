@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">final project</string>
+    <string name="start">Start</string>
+    <string name="detect_device">Detect device</string>
+    <string name="detected_devices">Detected Devices</string>
+    <string name="facebook_app_id">269360028146701</string>
+    <string name="fb_login_protocol_scheme">fb269360028146701</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
